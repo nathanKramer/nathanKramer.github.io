@@ -4,7 +4,7 @@ title:  "An assumption of coherence."
 categories: posts
 date:   2017-11-15 18:31:35 +1100
 tags: philosophy thinking out loud
-published: true
+published: false
 ---
 
 You will have to forgive, but [for this my first post](http://78.media.tumblr.com/tumblr_m4jbchTLRc1qcvteuo2_250.gif) I have decided to try and paint a picture with words. I'm trying to get at something quite abstract, and something I don't know much about, but I think there is a _there_ there, and something worth writing about (and admittedly, reading about... preferably before the writing, Nathan).
