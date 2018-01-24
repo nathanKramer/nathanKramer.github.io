@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Certainty is over-rated."
+title:  "The Certainty Delusion."
 categories: posts
 date:   2017-12-6 18:31:35 +1100
 tags: certainty dogmatism knowledge truth thinking out loud
@@ -14,7 +14,7 @@ I have been thinking a lot recently about truth, perspectives, political polaris
 I think we all have a sense that each of us experiences the world differently.
 However, looking closely, I don't think we truly appreciate how diverse our experiences are, and how profoundly impactful this fact is on our efforts to reconcile our differences.
 
-At bottom, it should be no surprise that we're divided politically. In terms of our experience as human beings in the world, it all starts with raw data from our senses (granted to us by various imperfect organs, iteratively produced over millions of years by evolution).
+In terms of our experience as human beings in the world, it all starts with raw data from our senses (granted to us by various imperfect organs, iteratively produced over millions of years by evolution).
 We're no witnesses to that raw data - the information we ultimately recieve has been subjected to a string of powerful, yet fallible subconscious processes well before we are conscious "observers" of it. We make sweeping abstractions, identitfy objects in purpose-oriented ways, take shortcuts through superfluous visual and auditory data. We probe for a world outside, brains occupying dark skulls, chronic abusers of induction, guessing about what's out there, beyond the skull.
 
 The brain? it's mostly talking to itself - for every neuron that receives its input from the outside world, there are between ten and a hundred others that do not.
@@ -74,8 +74,15 @@ Let's stop pretending and start learning.
 
 ## Footnotes
 
-[^1]: with the exception of olfaction, which is a chemoreception that forms the sense of smell.
+[^1]: apparently the "olfaction", which is a "chemoreception that forms the sense of smell", is an exception here.
 [^2]: atheism is not included, because in my view atheism neglects to make any assertion about the existence or non-existence of a god or gods, making it a relatively meaningless word. Importantly, if it _were_ to mean certainty about the non-existence of god, it would be even _more_ meaningless, selecting for but a small handful of people who haven't thought very hard about epistemology. This definition would ultimately fail to be inclusive of any notable "atheists", upon whom the word is most frequently applied. This strikes to the heart of a common misconception about agnosticism vs atheism, [cleaned up nicely by Ricky Gervais](https://pbs.twimg.com/media/DCHaXNnXkAAHa9G.jpg), but is admittedly just semantics, and some prefer to use the term "teapot atheist" instead of "atheist", in reference to Bertrand Russel's teapot thought experiment.
 [^3]: Tristan Harris is a real eye opener on this topic. Check out this podcast episode: [What is technology doing to us?](https://www.samharris.org/podcast/item/what-is-technology-doing-to-us)
 [^4]: spoiler alert: the scientific method. Seriously though, the philosophy of science is ripe for export into pretty much any other field.
 [^5]: see [Daniel Dannet on Rapoport's rules of engagement](https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/)
+
+## Anil K. Seth
+
+After writing this, I was surprised to hear a [wonderfully deep dive into this topic](https://samharris.org/podcasts/113-consciousness-and-the-self/) by Anil K. Seth on Sam Harris' podcast, specficially at around the 52:25 mark (Though the entire podcast was great, and I think we're very lucky to have access to such a high degree of richness of conversation, as was offered here).
+Anil is a neuroscientist so knows a lot about this stuff, and was able to paint a powerful picture of what he offered might be called the "Bayesian brain", which really resonated with me.
+
+He also did a [Ted talk](https://www.youtube.com/watch?v=lyu7v7nWzfo) which I found fascinating.
