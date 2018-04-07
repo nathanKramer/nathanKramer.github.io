@@ -3,7 +3,7 @@ layout: post
 title:  "Salesforce Exception Emails."
 categories: posts
 tags: salesforce.com salesforce apex exception emails slack integration errors automation
-published: true
+published: false
 ---
 
 # Using Apex Email Services and Apex Exception emails together

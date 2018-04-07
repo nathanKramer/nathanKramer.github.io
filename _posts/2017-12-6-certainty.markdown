@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Certainty Delusion."
+title:  "Certainty."
 categories: posts
 date:   2017-12-6 18:31:35 +1100
 tags: certainty dogmatism knowledge truth thinking out loud
