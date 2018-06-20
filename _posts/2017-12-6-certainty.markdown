@@ -7,7 +7,8 @@ tags: certainty dogmatism knowledge truth thinking out loud
 published: true
 ---
 
-I have been thinking a lot recently about truth, perspectives, political polarisation, and what you might call the fallibility of human experience.
+> One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision.
+> &mdash; Bertrand Russell
 
 ![Four. No! Three.]({{ "/assets/2017-11-15/four-no-three.png" | absolute_url }}){: width="400px"}
 
@@ -43,6 +44,9 @@ In the face of the current "post-truth" climate - one of information overload, s
 
 In this spirit, I think that noticing that we are all running "software", noticing that we don't know all the answers, noticing that - at bottom - we're lucky to be right about anything - is hugely important for developing an honest mode of being in the world.
 
+> “The offer of certainty, the offer of complete security, the offer of an impermeable faith that can’t give way, is an offer of something not worth having. I want to live my life taking the risk all the time that I don’t know anything like enough yet; that I haven’t understood enough; that I can’t know enough; that I’m always hungrily operating on the margins of a potentially great harvest of future knowledge and wisdom. I wouldn’t have it any other way.”
+> &mdash; Christopher Hitchens
+
 ### Listening
 
 I really think that the antidote for this starts with a commitment to honesty and open ears at the level of the individual. In order to get a better approximation of what is objectively true, we should increase our sample size. We should talk to people about what they believe.
@@ -65,6 +69,9 @@ Indeed, we might even admit that most truth is not yet known, and may never be.
 We might start with admitting that not a single person on earth is certain about what happens after death.
 
 Let's stop pretending and start learning.
+
+> The person who is certain, and who claims divine warrant for his certainty, belongs now to the infancy of our species.
+> &mdash; Christopher Hitchens
 
 ## Related reading:
 
