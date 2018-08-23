@@ -9,7 +9,7 @@ I'm a Software Developer currently working at [Trineo](https://www.trineo.com), 
 ## Web Solutions
 
 While my background is in Computer Science, my professional life has been centered primarily around developing software for the web.
-I like to find the right tool for the job, and have experience with Rails, Node, Javascript/SCSS. I often deploy apps with Heroku and employ AWS where appropriate.
+I like to find the right tool for the job, and have experience with C, Java, Python, Ruby, Rails, Node, Javascript/SCSS. I often deploy apps with Heroku and employ AWS where appropriate.
 
 ## Salesforce.com
 

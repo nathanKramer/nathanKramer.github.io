@@ -3,7 +3,7 @@ layout: post
 title:  "Religions."
 categories: posts
 tags: science religion philosophy atheism
-published: true
+published: false
 ---
 
 When an individual departs a religion, the religious community responds in some
