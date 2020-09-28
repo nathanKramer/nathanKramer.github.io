@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Religions."
+title: "Religions."
 categories: posts
 tags: science religion philosophy atheism
 published: false
@@ -34,8 +34,8 @@ meaning to its adherents, (at the cost of moral selective blindness, science den
 warning is whispered directly from the religion to the apostate, using the
 devout as its messenger, and it is this:
 
-> *Leave me at your peril. Wander into the infinite dark. See what happens. Be
-well equipped for the sheer indifference your suffering will be met with.*
+> _Leave me at your peril. Wander into the infinite dark. See what happens. Be
+> well equipped for the sheer indifference your suffering will be met with._
 
 Religion was built by us. Over thousands of years, we designed it evolutionarily
 and unconsciously, to provide us shelter against death and suffering and
